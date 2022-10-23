@@ -1,2 +1,2 @@
- This repository contains packages installation and configurtion using bash scripting..
+ This repository contains packages installation and configurtion using bash scripting on ubuntu..
 
