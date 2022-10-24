@@ -1,0 +1,16 @@
+#Author :Bobby
+#Date : Oct 2022
+
+echo "What is the username you want to create?"
+
+read USER_NAME
+
+echo "What is your full name?"
+
+read NAME
+
+echo "What is your user shell?"
+
+read SHELL
+
+useradd -s $SHELL -c "${NAME}" $USER_NAME
