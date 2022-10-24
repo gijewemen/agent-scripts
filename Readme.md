@@ -1,1 +1,1 @@
- This branch contains variables and ifstatements using bash scripting..
+ This branch contains simple bash scripts..
